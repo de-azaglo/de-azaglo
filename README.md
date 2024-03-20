@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Ricky-55
+- 👋 Hi, I’m Derrick Azaglo
 - 👀 I’m interested in web and software development
-- 🌱 I’m currently learning java programming language
-- 💞️ I’m looking to collaborate on ...
-- 📫 You can reach me on derrickazaglo@gmail.com
+- 🌱 I’m currently learning laravel, a PHP framework
+- 📫 You can reach me on derrickazaglo123@gmail.com
 - 💬 Or on Whatsapp, +233 54 963 2604
 
 <!---
