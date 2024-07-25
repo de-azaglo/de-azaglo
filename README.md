@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Derrick Azaglo
 - 👀 I’m interested in web and software development
-- 🌱 I’m currently learning laravel, a PHP framework
+- 🌱 I’m currently learning laravel, a PHP framework and React, a Js framework
 - 📫 You can reach me on derrickazaglo123@gmail.com
 - 💬 Or on Whatsapp, +233 54 963 2604
 
