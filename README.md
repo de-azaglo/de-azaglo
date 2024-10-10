@@ -23,7 +23,7 @@
 - 🌱 I'm currently learning: **📚 Exploring React And Laravel**
 - 💬 Ask me about: **💡 JavaScript, React and Php**
 - ⚡ Fun fact: **🏀 I play basketball**
-- 📂 Portfolio: **<a href="💻 derrickazaglo.link" target="_blank">💻 derrickazaglo.link</a>**
+- 📂 Portfolio: **<a href="https://derrickazaglo.link" target="_blank">💻 derrickazaglo.link</a>**
 
  **<h3 align="left">Skills</h3>**
 
