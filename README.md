@@ -21,7 +21,7 @@
 
 - 💼 I'm currently working on: **💻 Developing a school management system using Php**
 - 🌱 I'm currently learning: **📚 Exploring React And Laravel**
-- 💬 Ask me about: **💡 JavaScript, React and Php**
+- 💬 Ask me about: **💡 Php, Laravel, Javascript & React**
 - ⚡ Fun fact: **🏀 I play basketball**
 - 📂 Portfolio: **<a href="https://derrickazaglo.link" target="_blank">💻 derrickazaglo.link</a>**
 
