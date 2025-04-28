@@ -1,11 +1,18 @@
-![👋 Hi, my name is Derrick Azaglo](https://i.pinimg.com/736x/24/68/a1/2468a19e048308eabf19eabc4a2ce7a7.jpg)
+<!-- ![👋 Hi, my name is Derrick Azaglo](https://i.pinimg.com/736x/24/68/a1/2468a19e048308eabf19eabc4a2ce7a7.jpg) -->
+
+<div style="display:flex; align-items:center; justify-content:center; margin-bottom:10px">
+  <img src="https://res.cloudinary.com/dtct9slbr/image/upload/v1745850588/anime_wallpaper_icjgl9.jpg" width="70%">
+</div>
+
+<div style="display:flex; align-items:center; justify-content:center; margin-bottom:10px">
 
 ![Profile views](https://komarev.com/ghpvc/?username=big-daddy55&label=Profile%20views&color=0e75b6&style=flat) [![wakatime](https://wakatime.com/badge/user/24a65a09-e31b-4b42-abfa-8393055f431b.svg)](https://wakatime.com/@24a65a09-e31b-4b42-abfa-8393055f431b)
 
+</div>
 <div id="toc">
   <ul align="center" style="list-style: none">
     <summary>
-      <h1>
+      <h1 style="font-size:3em">
         👋 Hi, my name is Derrick Azaglo
       </h1>
     </summary>
@@ -20,14 +27,20 @@
 **<h3 align="left">Rapid Fire</h3>**
 
 - 💼 I'm currently working on: **💻 Developing a school management system using Php**
-- 🌱 I'm currently learning: **📚 Exploring React And Laravel**
-- 💬 Ask me about: **💡 Php, Laravel, Javascript & React**
+- 🌱 I'm currently learning: **📚 Exploring Laravel And Vue**
+- 💬 Ask me about: **💡 Php, Laravel, Javascript & Vue**
 - ⚡ Fun fact: **🏀 I play basketball**
-- 📂 Portfolio: **<a href="https://derrickazaglo.link" target="_blank">💻 derrickazaglo.link</a>**
+- 📂 Portfolio: **<a href="https://derrickazaglo.link" target="_blank">💻 Click Me</a>**
 
  **<h3 align="left">Skills</h3>**
 
-<p align="left"><img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" height="32" alt="PHP" style="margin-right: 4px"> <img src="https://img.shields.io/badge/JavaScript-F7DF1C?logo=javascript&logoColor=white" height="32" alt="JavaScript" style="margin-right: 4px"> <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" height="32" alt="React" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" height="32" alt="Tailwind CSS" style="margin-right: 4px"> <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="32" alt="MySQL" style="margin-right: 4px"></p>
+<p align="left">
+<img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" height="32" alt="PHP" style="margin-right: 4px"> 
+<img src="https://img.shields.io/badge/JavaScript-F7DF1C?logo=javascript&logoColor=white" height="32" alt="JavaScript" style="margin-right: 4px"> 
+<img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" height="32" alt="React" style="margin-right: 4px"> 
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" height="32" alt="Tailwind CSS" style="margin-right: 4px"> 
+<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="32" alt="MySQL" style="margin-right: 4px">
+</p>
 
  **<h3 align="left">GitHub Stats</h3>**
 
