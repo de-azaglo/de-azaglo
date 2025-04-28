@@ -1,5 +1,7 @@
 ![👋 Hi, my name is Derrick Azaglo](https://i.pinimg.com/736x/24/68/a1/2468a19e048308eabf19eabc4a2ce7a7.jpg)
-
+<div align="center">
+  (https://i.pinimg.com/736x/24/68/a1/2468a19e048308eabf19eabc4a2ce7a7.jpg)
+</div>
 ![Profile views](https://komarev.com/ghpvc/?username=big-daddy55&label=Profile%20views&color=0e75b6&style=flat) [![wakatime](https://wakatime.com/badge/user/24a65a09-e31b-4b42-abfa-8393055f431b.svg)](https://wakatime.com/@24a65a09-e31b-4b42-abfa-8393055f431b)
 
 <div id="toc">
