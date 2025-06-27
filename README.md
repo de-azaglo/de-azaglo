@@ -30,7 +30,7 @@
 - 🌱 I'm currently learning: **📚 Exploring Laravel And Vue**
 - 💬 Ask me about: **💡 Php, Laravel, Javascript & Vue**
 - ⚡ Fun fact: **🏀 I play basketball**
-- 📂 Portfolio: **<a href="https://derrickazaglo.link" target="_blank">💻 Click Me</a>**
+- 📂 Portfolio: **<a href="https://derrickazaglo.netlify.app" target="_blank">💻 Click Me</a>**
 
  **<h3 align="left">Skills</h3>**
 
