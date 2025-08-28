@@ -1,7 +1,7 @@
 <!-- ![👋 Hi, my name is Derrick Azaglo](https://i.pinimg.com/736x/24/68/a1/2468a19e048308eabf19eabc4a2ce7a7.jpg) -->
 
-<div align="center" style="display:flex; align-items:center; justify-content:center; margin-bottom:10px; width=100vw">
-  <img src="https://res.cloudinary.com/remember-all/image/upload/v1745850588/anime_wallpaper_icjgl9.jpg" width="70%">
+<div align="center" style="margin-bottom:10px">
+  <img src="https://res.cloudinary.com/remember-all/image/upload/v1745850588/anime_wallpaper_icjgl9.jpg" width="80%">
 </div>
 
 <div style="display:flex; align-items:center; justify-content:center; margin-bottom:10px">
