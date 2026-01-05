@@ -13,7 +13,7 @@
   <ul align="center" style="list-style: none">
     <summary>
       <h1 style="font-size:3em">
-        👋 Hi, my name is Derrick Azaglo
+        👋 Hi, my name is Derrick Azaglo.
       </h1>
     </summary>
   </ul>
