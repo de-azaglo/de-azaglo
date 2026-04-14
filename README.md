@@ -26,8 +26,8 @@
 
 **<h3 align="left">Rapid Fire</h3>**
 
-- 💼 I'm currently working on: **💻 Developing a school management system using Php**
-- 🌱 I'm currently learning: **📚 Exploring Laravel And Vue**
+- 💼 I'm currently working on: **💻 Building LaundriGo**
+- 🌱 I'm currently learning: **📚 Exploring .Net, Go and Flutter**
 - 💬 Ask me about: **💡 Php, Laravel, Javascript & Vue**
 - ⚡ Fun fact: **🏀 I play basketball**
 - 📂 Portfolio: **<a href="https://derrickazaglo.netlify.app" target="_blank">💻 Click Me</a>**
@@ -36,6 +36,7 @@
 
 <p align="left">
 <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" height="32" alt="PHP" style="margin-right: 4px"> 
+<img src="https://img.shields.io/badge/PHP-777BB4?logo=laravel&logoColor=white" height="32" alt="PHP" style="margin-right: 4px"> 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1C?logo=javascript&logoColor=white" height="32" alt="JavaScript" style="margin-right: 4px"> 
 <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" height="32" alt="React" style="margin-right: 4px"> 
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" height="32" alt="Tailwind CSS" style="margin-right: 4px"> 
